@@ -1,0 +1,17 @@
+{
+  "name": "chatter",
+  "version": "1.0.0",
+  "description": "a fun chatting webpage",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "author": "Exotik",
+  "license": "ISC",
+  "dependencies": {
+    "balanced-match": "^1.0.0",
+    "express": "*",
+    "socket.io": "*"
+  }
+}
